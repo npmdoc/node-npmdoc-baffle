@@ -1,6 +1,6 @@
 # npmdoc-baffle
 
-#### api documentation for  [baffle (v0.3.6)](https://camwiegert.github.io/baffle)  [![npm package](https://img.shields.io/npm/v/npmdoc-baffle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-baffle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-baffle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-baffle)
+#### basic api documentation for  [baffle (v0.3.6)](https://camwiegert.github.io/baffle)  [![npm package](https://img.shields.io/npm/v/npmdoc-baffle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-baffle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-baffle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-baffle)
 
 #### A tiny javascript library for obfuscating and revealing text in DOM elements.
 
@@ -85,7 +85,8 @@
         "lint": "eslint src/**/*.js",
         "start": "webpack -wp"
     },
-    "version": "0.3.6"
+    "version": "0.3.6",
+    "bin": {}
 }
 ```
 
